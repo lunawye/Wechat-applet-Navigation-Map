@@ -1,0 +1,9 @@
+export const CDN_PATH = 'https://3gimg.qq.com/lightmap/xcx/demoCenter/images';
+export const PLUGIN_KEY = 'wx11881fcafcfaa508';
+export const MOYUAN_KEY = 'wx11881fcafcfaa508';
+export const BAIQIAN_KEY = 'wx11881fcafcfaa508';
+export const YULU_KEY = 'wx11881fcafcfaa508';
+export const DIFUNI_KEY = 'wx11881fcafcfaa508';
+export const INDOOR_KEY = 'wx11881fcafcfaa508';
+export const REFERER = '小脑斧导航';
+export const WEBSERVICE_APPID = '	wx11881fcafcfaa508';
